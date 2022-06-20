@@ -1,0 +1,36 @@
+Rank,State/UT,City,Longitude,Latitude,Score,Population,Status,Crime_rate
+1,Andaman And Nicobar ,Bhubaneswar,92.73598262,11.66702557,78.83%,"8,37,737",selected,24.9
+2,Andhra Pradesh ,Pune,78.57002559,14.7504291,77.42%,"31,15,431",selected,14.4
+3,Arunachal Pradesh ,Jaipur,93.61660071,27.10039878,73.83%,"30,73,350",selected,50.4
+4,Assam ,Surat,94.21666744,26.7499809,68.16%,"45,01,610",selected,74.2
+5,Bihar ,Kochi,87.4799727,25.78541445,66.98%,"6,01,574",selected,44.7
+6,Chandigarh ,Jabalpur,76.78000565,30.71999697,63.03%,"10,54,336",selected,26.7
+7,Chhattisgarh ,Visakhapatnam,82.15998734,22.09042035,61.12%,"20,35,922",selected,29.7
+8,Dadra And Nagar Haveli ,Davangere,73.0166178,20.26657819,59.93%,"4,35,128",selected,13.7
+9,Delhi ,New Delhi,77.23000403,28.6699929,59.63%,"2,49,998",selected,77.5
+10,Gujarat,Coimbatore,72.831061,21.17024,58.74%,"16,01,438",selected,18.8
+11,Goa ,Guwahati,73.81800065,15.491997,57.66%,"9,63,429",selected,23.6
+12,Haryana ,Ludhiana,77.01999101,28.45000633,55.84%,"16,13,878",selected,52.1
+13,Himachal Pradesh ,Warangal,77.16659704,31.10002545,62.00%,"8,11,844",fast,22.4
+14,Jammu And Kashmir ,Chandigarh,74.46665849,34.29995933,60.00%,"9,60,787",fast,46.2
+15,Jharkhand ,Lucknow,86.41998572,23.80039349,63.00%,"28,15,601",fast,27.5
+16,Karnataka ,Newtown Kolkata,76.91999711,12.57038129,59.00%,"44,86,679",fast,31.4
+17,Kerala ,Panaji,76.56999263,8.900372741,58.00%,"1,14,405",fast,37.9
+18,Lakshadweep ,Pasighat,72.63686717,10.56257331,52.00%,"24,656",two,13.8
+19,Madhya Pradesh ,Dharamshala,76.13001949,21.30039105,61.00%,"53,252",fast,34.1
+20,Maharashtra ,Faridabad,73.16017493,19.25023195,54.00%,"14,04,653",fast,35.2
+21,Manipur ,Raipur,93.95001705,24.79997072,60.00%,"10,10,087",fast,35
+22,Meghalaya ,Bhagalpur,91.8800142,25.57049217,59.00%,"3,98,138",fast,29.5
+23,Mizoram ,Shillong,92.72001461,23.71039899,44.00%,"3,54,325",two,22.5
+24,Nagaland ,Namchi,94.11657019,25.6669979,53.00%,"12,190",two,12.6
+25,Orissa ,Port Blair,85.90001746,19.82042971,58.00%,"1,08,058",fast,44.8
+26,Puducherry ,Diu,79.83000037,11.93499371,46.00%,"52,056",two,11.1
+27,Punjab ,Oulgaret,75.98000281,31.51997398,46.05%,"3,00,150",two,23.7
+28,Rajasthan ,Silvassa,74.63998124,26.44999921,48.00%,"98,265",two,22.1
+29,Sikkim ,Imphal,88.6166475,27.3333303,56.00%,"2,64,986",fast,33.1
+30,Tamil Nadu ,Ranchi,79.15004187,12.92038576,56.00%,"10,73,440",fast,15.6
+31,Telangana,Agartala,79.5940544,17.9689008,55.00%,"3,99,688",fast,21.7
+32,Tripura ,Kohima,91.27999914,23.83540428,51.00%,"2,70,063",two,42.9
+33,Uttar Pradesh ,Aizawl,78.05000565,27.59998069,53.00%,"2,91,822",two,29.7
+34,Uttaranchal ,Kavaratti,78.05000565,30.32040895,47.00%,"11,210",two,21.8
+35,West Bengal ,Dehradun,88.32994665,22.58039044,52.00%,"5,78,420",two,49.8

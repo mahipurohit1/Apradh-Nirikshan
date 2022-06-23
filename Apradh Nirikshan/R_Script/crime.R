@@ -7,11 +7,11 @@ library(leaflet)
 
 
 #DATASETS----
-data1<-read.csv("C:\\Users\\Sakshi\\Desktop\\Apradh Nirikshan\\CSV_Data\\CRIME AGAINST CHILDREN.csv")
-data2<-read.csv("C:\\Users\\Sakshi\\Desktop\\Apradh Nirikshan\\CSV_Data\\CRIME AGAINST WOMEN.csv")
-data3<-read.csv("C:\\Users\\Sakshi\\Desktop\\Apradh Nirikshan\\CSV_Data\\CRIME AGAINST SC.csv")
-data4<-read.csv("C:\\Users\\Sakshi\\Desktop\\Apradh Nirikshan\\CSV_Data\\CRIME AGAINST SENIOR CITIZENS.csv")
-smartcities <- read.csv("C:\\Users\\Sakshi\\Desktop\\Apradh Nirikshan\\CSV_Data\\smart1.csv")
+data1<-read.csv("https://github.com/mahipurohit1/Apradh-Nirikshan/blob/main/Apradh%20Nirikshan/CSV_Data/CRIME%20AGAINST%20CHILDREN.csv")
+data2<-read.csv("https://github.com/mahipurohit1/Apradh-Nirikshan/blob/main/Apradh%20Nirikshan/CSV_Data/CRIME%20AGAINST%20WOMEN.csv")
+data3<-read.csv("https://github.com/mahipurohit1/Apradh-Nirikshan/blob/main/Apradh%20Nirikshan/CSV_Data/CRIME%20AGAINST%20SC.csv")
+data4<-read.csv("https://github.com/mahipurohit1/Apradh-Nirikshan/blob/main/Apradh%20Nirikshan/CSV_Data/CRIME%20AGAINST%20SENIOR%20CITIZENS.csv")
+smartcities <- read.csv("https://github.com/mahipurohit1/Apradh-Nirikshan/blob/main/Apradh%20Nirikshan/CSV_Data/smart1.csv")
 smartcities$State.UT <- as.character(smartcities$State.UT)
 
 #Dataset_Manipulations
